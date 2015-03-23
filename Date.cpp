@@ -17,7 +17,7 @@ void Date::SetDate(int nMonth, int nDay, int nYear)
     m_nYear = nYear;
 }
 
-int main()
+/*int main()
 {
   //const Something cSomething; // calls default constructor
  
@@ -31,4 +31,4 @@ int main()
   cout << a << endl;
  
     return 0;
-}
+    }*/
